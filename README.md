@@ -25,15 +25,13 @@ Label Encoding / One-Hot Encoding
 Normalize/scale if needed (Decision Trees don't strictly need it)
 Feature selection
 
-🌳 3. Build a Decision Tree Classifier
-
-✅ 4. Evaluation Metrics
+✅ 3. Evaluation Metrics
 Accuracy
 Precision, Recall, F1-score
 Confusion Matrix
 Feature Importance
 
-✅ 5.Tools & Libraries Used Python, Pandas, NumPy Matplotlib, Seaborn scikit-learn Jupyter Notebook
+✅ 4.Tools & Libraries Used Python, Pandas, NumPy Matplotlib, Seaborn scikit-learn Jupyter Notebook
 
 
 
